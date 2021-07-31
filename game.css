@@ -1,0 +1,41 @@
+body
+{
+	background: #ff006a;
+    font-family: cursive;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        font-family: cursive;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-family: cursive;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+    font-family: cursive;
+}
+#output
+{
+background: rgb(255, 183, 183);
+border-radius: 10px;
+border-top: 10px solid #f6ffa6;
+padding: 10px;
+float: none;
+text-align: left;
+font-family: cursive;
+}
